@@ -1,15 +1,15 @@
 baseURL = "https://www.example.com"
 languageCode = "en-us"
-title = "My Digital Garden"
+title = "Celestial Mind"
 theme = "hugo-digital-garden-theme"
 themesdir = "../../"
-copyright = "Nigalya Ponya ©"
+copyright = "Garuda"
 
 
 [params]
-  name = "Nigalya Ponya"
-  description = "Red panda living in the eastern Himalayas."
-  initials = "NP"
+  name = "The Grid"
+  description = "A celestial Mind."
+  initials = "CM"
   googleAnalytics = ""
 
   [[params.social]]
