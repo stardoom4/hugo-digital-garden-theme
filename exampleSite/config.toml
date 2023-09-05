@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com"
+baseURL = "https://celestialminds.netlify.app/"
 languageCode = "en-us"
 title = "Celestial Mind"
 theme = "hugo-digital-garden-theme"
@@ -14,22 +14,22 @@ copyright = "Garuda"
 
   [[params.social]]
     name = "Twitter"
-    link = "#"
+    link = "https://twitter.com/home"
     icon = "fab fa-twitter"
 
   [[params.social]]
     name = "Github"
-    link = "#"
+    link = "https://github.com/stardoom4"
     icon = "fab fa-github"
 
   [[params.social]]
     name = "Medium" 
-    link = "#"
+    link = "https://medium.com"
     icon = "fab fa-medium-m"
 
   [[params.social]]
     name = "LinkedIn"
-    link = "#"
+    link = "https://linkedin.com"
     icon = "fab fa-linkedin-in"
 
 
