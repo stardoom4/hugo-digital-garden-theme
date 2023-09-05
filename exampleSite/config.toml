@@ -2,7 +2,7 @@ baseURL = "https://celestialminds.netlify.app/"
 languageCode = "en-us"
 title = "Celestial Mind"
 theme = "hugo-digital-garden-theme"
-themesdir = "../../"
+themesdir = "./themes"
 copyright = "Garuda"
 
 
